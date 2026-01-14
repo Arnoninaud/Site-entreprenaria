@@ -1,6 +1,6 @@
 
 body {
-  font-family: 'Poppins', Comfortaa, sans-serif;
+  font-family: 'Poppins', Comfortaa ;
   margin: 0;
   background-color: #f07f07;
   color: #374151;
@@ -159,5 +159,6 @@ footer {
   background-color: #e5e7eb;
   font-size: 0.9rem;
 }
+
 
 
